@@ -5,7 +5,7 @@ A native Android application built to automate and monitor industrial and reside
 Managing remote water pumps requires reliable connectivity and autonomous safety limits to prevent tank overflows or motor dry-runs. This app solves that by moving the automation logic directly to the hardware and using a triple-redundancy network for control.
 
 ## 📱 Interface Showcase
-*(📸 Insert Image: Dashboard, Sensor & Tank Level UI, Timer Configuration)*
+(https://github.com/user-attachments/assets/563288fc-8fca-4280-85ae-13e097737179)
 
 ## 🏗️ Architecture & Tech Stack
 *   **Platform:** Native Android (Java, XML)
