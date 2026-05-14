@@ -1,4 +1,4 @@
-# Smart Water Pump - IoT Controller
+# Smart Water Pump App - IoT Controller
 
 A native Android application built to automate and monitor industrial and residential water pump systems. 
 
